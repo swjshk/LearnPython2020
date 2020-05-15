@@ -5,3 +5,4 @@ type(AAPLTable)
 print(type(AAPLTable))
 print(AAPLTable.shape)
 AAPLTable.index
+   
