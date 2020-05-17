@@ -1,0 +1,140 @@
+
+
+                        PRICE / COST SUMMARY
+===============================================================================
+Q2C Number:     42641137-010
+Job Name:       AWS - OPTDC LV Switchgear Design A
+Job Location:   STERLING VA
+Sales Office #: 
+Delivery Code:  C
+Line Code:      0ELY
+
+TOTALS FOR THIS QUOTE ITEM ARE:
+
+                       Price              Cost
+                 -----------    --------------
+SPECIAL ITEMS**    180700.00              0.00
+STD COMPONENTS     701956.26              0.00
+                 ===========    ==============
+                   882656.26              0.00
+
+
+                                 Standard Cost
+                                --------------
+MATERIAL                                  0.00
+LABOR                                     0.00
+BURDEN                                    0.00
+VAR BURDEN                                0.00
+MARKUP                                    0.00
+PUR BURDEN                                0.00
+                                ==============
+TOTAL*                                    0.00
+
+* STANDARD COST TOTAL IS IN MASTER PLANT'S LOCATION CURRENCY, AND 
+  TOTAL COST DOES NOT INCLUDE SPECIAL ITEMS, IF ANY.
+
+**SPECIAL ITEMS PRICE AND COST ARE IN DOMESTIC QUOTE LOCATION CURRENCY.
+
+QTY Description                                       DC Price Each  Cost Each 
+--- ------------------------------------------------- -- ---------- ---------- 
+  1 WOODWARD CONTROLLER TAG# TR-16840 by Lineup       C    35100.00       0.00
+  2 PTS FOR WOODWARD TAG# TR-16840 by Lineup          A     4800.00       0.00
+  1 (1) CT ON B PHASE FOR WOODWARD TAG# TR-16840 by   B     3500.00       0.00
+  2 86 LOCKOUT RELAY TAG# TR-16840 by Lineup          B     8500.00       0.00
+  2 BKR CONTROL SWITCHES W. LIGHTS TAG# TR-16840 by   B     6500.00       0.00
+  1 83 CPT TRANSFER TAG# TR-16840 by Lineup           C    22500.00       0.00
+  1 SPIDER8TX TAG# TR-24261 by Lineup                 B     9500.00       0.00
+  1 SER-3200-PTP TAG# TR-24261 by Lineup              C    52000.00       0.00
+  1 WIRE WOODWARD TO SER TAG# TR-24261 by Lineup      C     2500.00       0.00
+  2 BKR CNTRL SWITCH COVER TAG# TR-24261 by Lineup    B     2500.00       0.00
+  1 LINE SIDE OF GEN BKR TAG# TR-24261 by Device      C     6500.00       0.00
+  1 (8) LUGS PER PHASE TAG# TR-16840 by Lineup        B     4500.00       0.00
+
+
+ITEM DESCRIPTION FOR THIS QUOTE:
+
+Item Description                                       Category # 
+---- ------------------------------------------------- ----------
+   1 Square D Custom Swbd Comms                        09424     
+
+
+                            ITEMIZED PRICE SHEET
+                           (For Internal Use Only)
+
+Qty Description                                       DC List Each List Total
+--- ------------------------------------------------- -- --------- ----------
+  1 1200AF/1000AT 480V 100% Rated 65 kA 3 Pole UL, D  C              88976.00
+  2 1200AF/900AT 480V 100% Rated 65 kA 3 Pole UL, Dr  C   88976.00  177952.00
+  1 150AS/100AT 480V 80% Rated 35 kA 3 Pole UL, Grou A4               4848.00
+  5 250AS/225AT 480V 80% Rated 35 kA 3 Pole UL, Grou A4    5082.00   25410.00
+  2 400AS/150AT 480V 80% Rated 35 kA 3 Pole UL, Grou A4    5645.00   11290.00
+  1 400AS/400AT 480V 80% Rated 35 kA 3 Pole UL, Grou A4               5645.00
+  6 Alum 2 Hole Comp Lugs 2 (600 kcmil) per Phase/Wi A4     173.07    1038.42
+ 12 Alum 2 Hole Comp Lugs 4 (600 kcmil) per Phase/Wi A4     173.07    2076.84
+  3 Contact Wear Indication Via Modbus Communication  B       0.00       0.00
+  3 Cradle Cell Keying                               A4       0.00       0.00
+  3 Cradle Position Switches 1A/1B Form C (C/T/D)     C    1378.00    4134.00
+  1 Delivery Code - Top Exit NW or MTZ with Top Thru  B                  0.00
+  9 Delivery Code for Energy Trip Unit               A4       0.00       0.00
+  3 Energy Trip Unit,  Long Time, Short Time, Instan A4    7659.00   22977.00
+  1 Energy Trip Unit, LSI                            A4               3485.00
+  5 Energy Trip Unit, LSI                            A4    4978.00   24890.00
+  3 ERMS for Single IMD Breaker                      A4   12000.00   36000.00
+  3 I-LINE - TM - Accessories - Auxiliary Switch 2A/ A4     647.00    1941.00
+  6 I-LINE - TM- Auxiliary Switch 1A/1B - Form C     A4     466.00    2796.00
+  1 I-Line Interior S633616R -1600 - AL              A4               4244.00
+  1 Masterpact C/B - Auxiliary Switches 4A-4B        A4                  0.00
+  2 Masterpact C/B - Auxiliary Switches 8A-8B        A4    3604.00    7208.00
+  3 Masterpact C/B - Contact wear indication - Visua A4       0.00       0.00
+  2 Masterpact C/B - Cover over Open/Close Buttons   A4     212.00     424.00
+  3 Masterpact C/B - Drawout Crank                   A4       0.00       0.00
+  3 Masterpact C/B - Overcurrent Trip Switch 1A/1B F A4       0.00       0.00
+  2 Masterpact C/B - Ready To Close 1A/1B From C Con A4    1802.00    3604.00
+  2 Masterpact C/B - Shunt Close without Communicati A4    1802.00    3604.00
+  3 Masterpact C/B - Shunt Trip without Communicatio A4    1802.00    5406.00
+  2 Masterpact C/B - Spring Charging Motor Masterpac  B   13123.00   26246.00
+  3 Masterpact Kirk Key Interlock                     B    2237.00    6711.00
+  3 Modbus Communications - Breaker Wired             C    1929.00    5787.00
+  3 Modbus Communications - Cradle Wired              C    2006.00    6018.00
+  9 Modbus Communications - H, J, or L Breaker Wired  B    4296.00   38664.00
+  1 Padlock Attachment for Group Mounted HG          A4                 32.00
+  5 Padlock Attachment for Group Mounted JG          A4      32.00     160.00
+  3 Padlock Attachment for Group Mounted LG          A4      32.00      96.00
+  3 Power Trip Unit, Long Time, Short Time, Instanta A4    9500.00   28500.00
+  1 100 Base T Copper Hub System                     A4               6148.00
+  1 Overhead Lifting Trolley for entire SWBD          C              12879.00
+  4 Structure/Bussing - Paint Color - ANSI 49        A4       0.00       0.00
+  1 120Vac Control Power Transformer                 A4                890.00
+  1 2.0A24Vdc Power Supply                           A4               1950.00
+  3 Masterpact C/B - Two 2.0A 24vdc Power Supply     A4    3901.00   11703.00
+  4 Minimum Delivery Code for Custom Lineup           A       0.00       0.00
+  3 QED 120Vac Control Power Transformer             A4     890.00    2670.00
+  4 SIS Control Wire                                  B     710.00    2840.00
+  4 Structure/Bussing - <=2000A CU Optional Copper G A4     191.00     764.00
+  4 Structure/Bussing - Alum Bus Standard Section 12 A4    8448.00   33792.00
+  3 Structure/Bussing - Barriers between Sections    A4    2109.00    6327.00
+  1 Certified Test Report                            A4                500.00
+  1 Multiple Source Pelt Code                         C                  0.00
+  2 Power Meter - PM8244                             A4   26443.00   52886.00
+  2 2 CTs PM8244 w/ Display- - 3 phase 4 wire wye 48 A4    9222.00   18444.00
+
+                                                                   ----------
+                                                  Total             701956.26
+------------------------------ Special Items --------------------------------
+  1 (1) CT ON B PHASE FOR WOODWARD TAG# TR-16840 by   B               3500.00
+  1 (8) LUGS PER PHASE TAG# TR-16840 by Lineup        B               4500.00
+  1 83 CPT TRANSFER TAG# TR-16840 by Lineup           C              22500.00
+  2 86 LOCKOUT RELAY TAG# TR-16840 by Lineup          B    8500.00   17000.00
+  2 BKR CNTRL SWITCH COVER TAG# TR-24261 by Lineup    B    2500.00    5000.00
+  2 BKR CONTROL SWITCHES W. LIGHTS TAG# TR-16840 by   B    6500.00   13000.00
+  1 LINE SIDE OF GEN BKR TAG# TR-24261 by Device      C               6500.00
+  2 PTS FOR WOODWARD TAG# TR-16840 by Lineup          A    4800.00    9600.00
+  1 SER-3200-PTP TAG# TR-24261 by Lineup              C              52000.00
+  1 SPIDER8TX TAG# TR-24261 by Lineup                 B               9500.00
+  1 WIRE WOODWARD TO SER TAG# TR-24261 by Lineup      C               2500.00
+  1 WOODWARD CONTROLLER TAG# TR-16840 by Lineup       C              35100.00
+
+                                                                   ----------
+                                            Spec. Total             180700.00
+                                                                   ==========
+                                            Grand Total             882656.26

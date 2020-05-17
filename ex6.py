@@ -24,3 +24,4 @@ print('end of code')
 
 formatter2=f"todays date is{date_time}"
 print(formatter2)
+print()
