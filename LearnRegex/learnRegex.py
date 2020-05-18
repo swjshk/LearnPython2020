@@ -1,6 +1,6 @@
 import re
 
-text_to_search = '''
+text_to_search = """
 abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 1234567890
@@ -23,13 +23,13 @@ Mr Smith
 Ms Davis
 Mrs. Robinson
 Mr. T
-'''
+"""
 
-sentence='Start a sentence and then bring it to an end'
+sentence = "Start a sentence and then bring it to an end"
 
 # 'r' raw string
 
-pattern = re.compile(r'555')
+pattern = re.compile(r"555")
 
 matches = pattern.finditer(text_to_search)
 
