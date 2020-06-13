@@ -14,7 +14,7 @@ def generate_user():
     password = ''.join(random.choice(string.digits + string.ascii_letters) 
         for i in range(random.choice([5,6,7,8,9,10])))
     
-    print('user \t\t= {}\npassword \t= {}\n'.format(username,password))
+    print('user = {:30}\npassword = {:20}\n'.format(username,password))
 
 for i in range(10):
     generate_user()
@@ -22,6 +22,6 @@ for i in range(10):
 ### learn
 # random
 # json.loads()
-# random.choice()
+# random.choice()ß
 # string
 # regex
